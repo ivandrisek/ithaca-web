@@ -1,3 +1,1 @@
-## Ithaca
 
-Journey begins.
