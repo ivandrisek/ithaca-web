@@ -1,2 +1,0 @@
-# ithaca-web
-Ithaca web
